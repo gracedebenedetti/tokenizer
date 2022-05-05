@@ -1,1 +1,0 @@
-zip -r submission.zip Makefile *.h *.c
